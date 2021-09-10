@@ -35,11 +35,13 @@ I'm a passionate self-taught <u>Full Stack Developer</u> from India.
 
 [![Quick BT](https://github-readme-stats.vercel.app/api/pin/?username=shanmukhateja&repo=quick-bt)](https://github.com/shanmukhateja/quick-bt)
 
+[![MyStudio IDE](https://github-readme-stats.vercel.app/api/pin/?username=shanmukhateja&repo=mystudio-ide)](https://github.com/shanmukhateja/mystudio-ide)
+
 ### I contribute code to:
 
 [![ngx-markdown](https://github-readme-stats.vercel.app/api/pin/?username=jfcere&repo=ngx-markdown)](https://github.com/shanmukhateja/ngx-markdown)
 
-[![ngx-markdown](https://github-readme-stats.vercel.app/api/pin/?username=ngx-builders&repo=ngx-bulma)](https://github.com/shanmukhateja/ngx-bulma)
+[![ngx-bulma](https://github-readme-stats.vercel.app/api/pin/?username=ngx-builders&repo=ngx-bulma)](https://github.com/shanmukhateja/ngx-bulma)
 
 
 ### 📚 I'm learning:
